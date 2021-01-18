@@ -24,7 +24,7 @@ on:
 env:
   REPO_URL: https://github.com/coolsnowwolf/lede
   REPO_BRANCH: master
-  REPO_COMMIT_ID: 59fe7c1ac672cc3bc940e1faa09cc522d2233b37
+  REPO_COMMIT_ID: 332fe57a37ad2ae452e385960961691209fe2822
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
   DIY_P1_SH: diy-part1.sh
