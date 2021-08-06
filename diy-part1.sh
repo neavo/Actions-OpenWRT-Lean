@@ -16,5 +16,3 @@
 # Add a feed source
 # echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
-git clone https://github.com/aa65535/openwrt-chinadns.git package/chinadns
-git clone https://github.com/aa65535/openwrt-dist-luci.git package/openwrt-dist-luci
